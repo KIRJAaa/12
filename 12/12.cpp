@@ -42,7 +42,7 @@ int main()
 			cout << "Yes" << endl;
 		else
 
-			cout << "-" << endl;
+			cout << "No" << endl;
 
 	}
 
